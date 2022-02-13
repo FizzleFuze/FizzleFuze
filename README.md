@@ -2,7 +2,7 @@
 - 👀 I’m interested in artificial intelligence development.
 - 🌱 I’m currently learning to do better with visual work eg. modelling and graphics.
 - 💞️ I’m open to collab but I have a ton of projects on my plate already!
-- 📫 How to reach me: fizzlefuze@aidevelopment.org
+- 📫 How to reach me: mods@fizzlefuze.com
 
 <!---
 FizzleFuze/FizzleFuze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
