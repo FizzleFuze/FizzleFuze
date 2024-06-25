@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FizzleFuze
+- 👋 Hi, I’m Doktor Nik
 - 👀 I’m interested in artificial intelligence development.
-- 🌱 I’m currently learning to do better with visual work eg. modelling and graphics.
-- 💞️ I’m open to collab but I have a ton of projects on my plate already!
-- 📫 How to reach me: mods@fizzlefuze.com
+- 🌱 I’m currently studying computer science at university.
+- 💞️ I’m open to collab but I am extremely busy already!
+- 📫 How to reach me: nik at wrinklyideas com
 
 <!---
 FizzleFuze/FizzleFuze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
